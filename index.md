@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Dancing Soul
 
-You can use the [editor on GitHub](https://github.com/SripradaBid/sriprada.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hey there!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm Sriprada a student as well as a Kuchipudi Dancer, presently living in Hyderabad, India.
 
-### Markdown
+                                         **DANCING SOUL** 
+                                  Relishing the Art of Dancing 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Regardless of where I am, my focus is simple: live a vibrant and uncomplicated life by dancing. Dancing Soul was created as a medium to share my dance journey. It's as easy as that. 
 
-```markdown
-Syntax highlighted code block
+## What is Kuchipudi Dance?
 
-# Header 1
-## Header 2
-### Header 3
+Kuchipudi is one of the eleven major Indian classical dances. It originated in a village named Kuchipudi in the Indian state of Andhra Pradesh.
 
-- Bulleted
-- List
+Kuchipudi is a dance-drama performance, with its roots in the ancient Hindu Sanskrit text of Natya Shastra and Abhinayadarpana.
 
-1. Numbered
-2. List
+## Why did you choose Kuchipudi Dance?
 
-**Bold** and _Italic_ and `Code` text
+The classical dance that is famous and traditional in the place where I live is Kuchipudi.
 
-[Link](url) and ![Image](src)
-```
+## At what age did you start learing Kuchipudi Dance?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I was 1 year 11 months when I first went to my dance class. 
 
-### Jekyll Themes
+## When was your first time on stage?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SripradaBid/sriprada.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I was 2 years 3 months when I was first time on the stage.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Link](https://www.youtube.com/watch?v=XWVDEyHFd00)
