@@ -4,8 +4,8 @@ Hey there!
 
 I'm Sriprada a student as well as a Kuchipudi Dancer, presently living in Hyderabad, India.
 
-                                           DANCING SOUL
-                                  Relishing the Art of Dancing 
+                                       DANCING SOUL
+                                Relishing the Art of Dancing 
 
 Regardless of where I am, my focus is simple: live a vibrant and uncomplicated life by dancing. Dancing Soul was created as a medium to share my dance journey. It's as easy as that. 
 
