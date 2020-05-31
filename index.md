@@ -29,3 +29,15 @@ I was 2 years 3 months when I was first time on the stage.
 
 [First time on stage](https://www.youtube.com/watch?v=XWVDEyHFd00)
 
+### Name your Gurus in chronological order.
+
+- Mrs. Nirmala Vishweshwar Rao
+- Mr. Pasumarthy Mrutunjaya Sarma
+- Mr. Vedantam Panduranga Sarma
+- Mr. Vedantam Radhe Shyam
+- Mr. Pasumarthy Venkateshwara Sarma
+- Mr. Bhaghavatula Srinivasa Sarma
+- Mr. Chinta Venkata Shiva Rama Krishna Kumar
+- Mr. Naga Sai 
+- Mr. D.V. Narayana Murty 
+
