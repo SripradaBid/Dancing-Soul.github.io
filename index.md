@@ -4,7 +4,7 @@ Hey there!
 
 I'm Sriprada a student as well as a Kuchipudi Dancer, presently living in Hyderabad, India.
 
-                                         **DANCING SOUL** 
+                                           DANCING SOUL
                                   Relishing the Art of Dancing 
 
 Regardless of where I am, my focus is simple: live a vibrant and uncomplicated life by dancing. Dancing Soul was created as a medium to share my dance journey. It's as easy as that. 
@@ -28,3 +28,4 @@ I was 1 year 11 months when I first went to my dance class.
 I was 2 years 3 months when I was first time on the stage.
 
 [First time on stage](https://www.youtube.com/watch?v=XWVDEyHFd00)
+
