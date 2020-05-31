@@ -27,4 +27,4 @@ I was 1 year 11 months when I first went to my dance class.
 
 I was 2 years 3 months when I was first time on the stage.
 
-[Link](https://www.youtube.com/watch?v=XWVDEyHFd00)
+[First time on stage](https://www.youtube.com/watch?v=XWVDEyHFd00)
